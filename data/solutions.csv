@@ -1,1 +1,4 @@
-
+"SNO","Ticket Description","Domain","Ticket Solution"
+"1","Unable to submit timesheet in portal after approval","Timesheet","Verify if the timesheet is already approved. If issue persists, raise an SR and clear browser cache."
+"2","Unable to locate updated holiday list in HR portal","HR / Holidays","Navigate to HR section Holiday Calendar. If not visible, contact HR support."
+"3","Incorrect billing hours shown in dashboard","Time Tracking","Cross-check approved timesheets and allocation. If mismatch remains, escalate to project manager and IT."
