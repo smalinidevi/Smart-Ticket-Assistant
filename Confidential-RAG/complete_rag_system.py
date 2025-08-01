@@ -80,7 +80,7 @@ class ComprehensiveRAGSystem:
             return csv_path
             
         possible_paths = [
-            "C:/Users/2128124/OneDrive - Cognizant/Desktop/Vibe_Coding/data/solutions.csv"
+            "/data/solutions.csv"
         ]
         
         for path in possible_paths:
