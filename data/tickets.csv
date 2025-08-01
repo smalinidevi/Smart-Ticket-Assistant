@@ -1,4 +1,3 @@
-#sample_data
 ticket_id,ticket_text,category
 1,"Unable to submit timesheet in company portal",Confidential
 2,"Azure DevOps access denied while trying to push changes to repo",Technical
