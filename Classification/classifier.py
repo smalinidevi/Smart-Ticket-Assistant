@@ -37,7 +37,7 @@ print("🚀 Starting QLoRA BERT Fine-tuning with Early Stopping...")
 print("📊 Loading and preparing data...")
 
 # Load dataset
-df = pd.read_csv("C:/Users/2128124/OneDrive - Cognizant/Desktop/Vibe_Coding/data/tickets.csv")
+df = pd.read_csv("/data/tickets.csv")
 print(f"Dataset shape: {df.shape}")
 print(f"Categories: {df['category'].value_counts()}")
 
